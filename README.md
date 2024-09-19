@@ -18,8 +18,6 @@
 
 **[Мой пример на jsfiddle](https://jsfiddle.net/diasporx/fLoz8jpx/123/)**
 
+![изображение](https://github.com/user-attachments/assets/e1b79dbe-c169-40d7-b1ab-466be6ed3352)
+
 Такой подход гарантирует, что карта будет корректно отображаться и реагировать на события, сохраняя преимущества Shadow DOM.
-
-
-
-
